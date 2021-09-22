@@ -1,6 +1,9 @@
 <application>
   <component name="UISettings">
-    <option name="CYCLE_SCROLLING" value="false" />
-    <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
+    <option name="compactTreeIndents" value="true" />
+    <option name="EDITOR_AA_TYPE" value="Greyscale" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
   </component>
 </application>
