@@ -2,6 +2,11 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="Jdbc.OpenConsole.New" />
+  <action id="Jdbc.OpenConsole.New.Generate" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift alt q" />
   </action>
