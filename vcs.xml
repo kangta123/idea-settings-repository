@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.9fbank.com" />
           <option name="userName" value="hanyaoxiang" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab-online.100url.cn" />
+          <option name="userName" value="hanyaoxiang" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
