@@ -8,9 +8,13 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenConsole.New.Generate" />
   <action id="Print" />
+  <action id="QuickTypeDefinition">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
