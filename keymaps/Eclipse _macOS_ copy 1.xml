@@ -10,6 +10,9 @@
   </action>
   <action id="Debug" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="JRebel Debug">
     <keyboard-shortcut first-keystroke="meta f11" />
   </action>
