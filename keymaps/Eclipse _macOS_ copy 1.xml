@@ -10,6 +10,13 @@
   </action>
   <action id="Debug" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
@@ -22,14 +29,18 @@
   <action id="QuickTypeDefinition">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="ReformatCode" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift alt q" />
-  </action>
-  <action id="StructuralSearchPlugin.StructuralSearchAction">
-    <keyboard-shortcut first-keystroke="meta f" />
   </action>
   <action id="WD.UploadCurrentRemoteFileAction" />
 </keymap>
