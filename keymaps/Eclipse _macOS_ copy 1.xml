@@ -16,11 +16,15 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="IntroduceParameter" />
   <action id="JRebel Debug">
     <keyboard-shortcut first-keystroke="meta f11" />
   </action>
   <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenConsole.New.Generate" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="Print" />
   <action id="QuickTypeDefinition">
     <keyboard-shortcut first-keystroke="meta p" />
