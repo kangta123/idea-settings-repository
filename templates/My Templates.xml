@@ -1,0 +1,22 @@
+<templateSet group="My Templates">
+  <template name="sgm" value="@GetMapping(&quot;$path$&quot;)&#10;public Response&lt;$type$&gt; $name$() {&#10;    $end$&#10;    return Response.ok();&#10;}&#10;" description="create spring GetMapping" toReformat="false" toShortenFQNames="true">
+    <variable name="path" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pf" value="private final $end$" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="scp" value="import lombok.RequiredArgsConstructor;&#10;import lombok.extern.slf4j.Slf4j;&#10;import org.springframework.stereotype.Component;&#10;&#10;@Component&#10;@RequiredArgsConstructor&#10;@Slf4j" description="create spring component" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

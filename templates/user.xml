@@ -1,8 +1,0 @@
-<templateSet group="user">
-  <template name="ci" value="console.info(&quot;$1$&quot;, $END$);" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-</templateSet>
