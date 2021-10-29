@@ -1,8 +1,0 @@
-<application>
-  <component name="ExportableFileTemplateSettings">
-    <default_templates>
-      <template name="JavaFXApplication.java" reformat="true" live-template-enabled="false" enabled="false" />
-      <template name="SpringBootController.java" reformat="false" live-template-enabled="false" />
-    </default_templates>
-  </component>
-</application>
