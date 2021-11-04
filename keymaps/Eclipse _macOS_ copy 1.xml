@@ -13,9 +13,7 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
-  <action id="ForceRunToCursor">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
+  <action id="ForceRunToCursor" />
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
@@ -35,7 +33,9 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
-  <action id="RunToCursor" />
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
