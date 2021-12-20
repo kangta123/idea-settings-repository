@@ -10,6 +10,10 @@
           <option name="url" value="http://gitlab-online.100url.cn" />
           <option name="userName" value="hanyaoxiang" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="kangta123" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
