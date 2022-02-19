@@ -3,6 +3,8 @@
     <option name="compactTreeIndents" value="true" />
     <option name="EDITOR_AA_TYPE" value="Greyscale" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="32" />
+    <option name="MAX_LOOKUP_WIDTH2" value="881" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
   </component>
