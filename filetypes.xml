@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="init_models" type="AUTO_DETECTED" />
+      <mapping pattern="init_models_dws" type="AUTO_DETECTED" />
       <mapping pattern="11" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="init_model" type="AUTO_DETECTED" />
