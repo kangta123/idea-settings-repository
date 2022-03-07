@@ -14,8 +14,13 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="kangta123" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab-online.100url.cn/bigdata/Applications/yibai-datacenter-report.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/git100" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
