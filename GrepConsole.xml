@@ -15,6 +15,15 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="Selected matched scheduled plan with name" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
@@ -24,7 +33,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="Selected matched scheduled plan with name" />
+                <option name="expression" value="batch-data-append" />
               </GrepModel>
             </list>
           </option>
