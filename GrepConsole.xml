@@ -51,6 +51,15 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="pendingTasks" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
