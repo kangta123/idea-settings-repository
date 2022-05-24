@@ -24,15 +24,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="batch-data-append" />
               </GrepModel>
             </list>
@@ -52,6 +43,15 @@
             <list>
               <GrepModel>
                 <option name="expression" value="[Timer]" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
               </GrepModel>
             </list>
           </option>
