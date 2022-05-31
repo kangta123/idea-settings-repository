@@ -60,6 +60,15 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="Received reply" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
@@ -69,7 +78,25 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="Received reply" />
+                <option name="expression" value="cnki-f339079c170346a09a32197c4347c52b" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="cnki-f3dfe6908b764407ae5e79c61dff47c7" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="Move pending tasks" />
               </GrepModel>
             </list>
           </option>
