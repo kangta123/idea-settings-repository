@@ -114,15 +114,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="Execute sql with select * from saas_yibai_video limit" />
               </GrepModel>
             </list>
@@ -142,6 +133,24 @@
             <list>
               <GrepModel>
                 <option name="expression" value="report data" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="batch-data-append-0b933e7d37104f36b8ddc0cd8c694f9e" />
               </GrepModel>
             </list>
           </option>
