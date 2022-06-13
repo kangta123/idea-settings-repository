@@ -14,11 +14,11 @@
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
   <action id="ForceRunToCursor" />
-  <action id="Git.CheckoutGroup">
-    <keyboard-shortcut first-keystroke="ctrl meta alt c" />
-  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="IntroduceConstant">
+    <keyboard-shortcut first-keystroke="ctrl meta alt c" />
   </action>
   <action id="IntroduceParameter" />
   <action id="JRebel Debug">
