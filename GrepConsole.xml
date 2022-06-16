@@ -150,6 +150,15 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="get data" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
@@ -159,7 +168,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="get data" />
+                <option name="expression" value="Redis mem usage" />
               </GrepModel>
             </list>
           </option>
