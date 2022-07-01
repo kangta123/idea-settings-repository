@@ -114,15 +114,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="Execute sql with select * from saas_yibai_video limit" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="[monitor]" />
               </GrepModel>
             </list>
@@ -169,6 +160,15 @@
             <list>
               <GrepModel>
                 <option name="expression" value="Redis mem usage" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="Execute sql with select * from saas_yibai_video limit" />
               </GrepModel>
             </list>
           </option>
