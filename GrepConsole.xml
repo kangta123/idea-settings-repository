@@ -177,15 +177,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="REPORT-EXPORT-EXCEL-0" />
               </GrepModel>
             </list>
@@ -253,6 +244,33 @@
             <list>
               <GrepModel>
                 <option name="expression" value="REPORT-EXPORT-EXCEL-3" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="Thread-38" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="Thread-36" />
               </GrepModel>
             </list>
           </option>
