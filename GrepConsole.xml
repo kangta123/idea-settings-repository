@@ -6,15 +6,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="batch-data-append" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="batch-data-append-bf4e171737154a85a3f12466a2b18303" />
               </GrepModel>
             </list>
@@ -271,6 +262,15 @@
             <list>
               <GrepModel>
                 <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="Insert row with index" />
               </GrepModel>
             </list>
           </option>
