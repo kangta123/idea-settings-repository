@@ -6,24 +6,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="pendingTasks" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="expression" value="Received reply" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="cnki-f339079c170346a09a32197c4347c52b" />
               </GrepModel>
             </list>
@@ -234,15 +216,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="Accept export data with count" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="Insert row with index" />
               </GrepModel>
             </list>
@@ -271,6 +244,33 @@
             <list>
               <GrepModel>
                 <option name="expression" value="Write excel file t" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="Create sheet" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="tal in file export_file_0906103951_10&#10;2022-09-08 11:39:15.775  INFO 25029 Thread-187   --- [     Thread-187] c.y.d.r.r.s.domain.ExcelExportData       : Create sheet with name hospital file export_file_0906103951_11&#10;2022-09-08 11:39:15.776  INFO 25029 Thread-187   --- [     Thread-187] c.y.d.r.r.s.domain.ExcelExportData       : Create shee" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="Accept export data with count" />
               </GrepModel>
             </list>
           </option>
