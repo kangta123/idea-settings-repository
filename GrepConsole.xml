@@ -6,15 +6,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="cnki-f3dfe6908b764407ae5e79c61dff47c7" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="Move pending tasks" />
               </GrepModel>
             </list>
@@ -261,6 +252,15 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="IdMappingFeign" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
@@ -270,7 +270,8 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="IdMappingFeign" />
+                <option name="exclude" value="true" />
+                <option name="expression" value="============" />
               </GrepModel>
             </list>
           </option>
