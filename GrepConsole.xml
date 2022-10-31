@@ -78,15 +78,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="Execute sql with select * from saas_yibai_video limit" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="fetch data from db nhc-ffafd98e425549aaa472645c79ec76d9 with index 0" />
               </GrepModel>
             </list>
@@ -272,6 +263,15 @@
               <GrepModel>
                 <option name="exclude" value="true" />
                 <option name="expression" value="============" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="Execute sql with select * from saas_yibai_video limit" />
               </GrepModel>
             </list>
           </option>
